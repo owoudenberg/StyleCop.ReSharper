@@ -349,8 +349,8 @@
       <HintPath>..\packages\VSSDK.DTE.7.0.4\lib\net20\stdole.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="StyleCop, Version=4.7.1000.0, Culture=neutral, PublicKeyToken=f904653c63bc2738, processorArchitecture=MSIL">
-      <HintPath>..\..\lib\StyleCop.4.7.54\StyleCop.dll</HintPath>
+    <Reference Include="StyleCop, Version=5.0.0.0, Culture=neutral, PublicKeyToken=f904653c63bc2738, processorArchitecture=MSIL">
+      <HintPath>..\..\lib\StyleCop.5.0.0-beta3\StyleCop.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Collections.Concurrent" />
@@ -683,7 +683,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\lib\StyleCop.4.7.54\Settings.StyleCop">
+    <None Include="..\..\lib\StyleCop.5.0.0-beta3\Settings.StyleCop">
       <Link>Settings.StyleCop</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
